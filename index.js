@@ -1,2 +1,2 @@
-exports.logger = require('./logger')
+exports.Log = require('./log')
 exports.Utils = require('./utils')
